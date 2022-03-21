@@ -28,4 +28,4 @@
 
 👍 &nbsp; https://github.com/microsoft/vscode/issues/134635#issuecomment-1027734972
 
- 🚫 &nbsp; https://youtu.be/bLHL75H_VEM
+🚫 &nbsp; [You're dereferencing a null pointer!](https://youtu.be/bLHL75H_VEM)
