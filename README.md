@@ -12,6 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=LeoTM)
 
 <!-- https://ileriayo.github.io/markdown-badges -->
+<!-- Email? -->
 
 <p align="center">
   <a href="https://stackexchange.com/users/1639128/leo"><img alt="Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"></a>
