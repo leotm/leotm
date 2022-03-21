@@ -25,3 +25,5 @@
 ❤️ &nbsp; https://github.com/facebook/react-native/issues/31733#issuecomment-864536726
 
 🚀 &nbsp; https://github.com/infinitered/reactotron-react-native/issues/239#issuecomment-657792540
+
+👍 &nbsp; https://github.com/microsoft/vscode/issues/134635#issuecomment-1027734972
