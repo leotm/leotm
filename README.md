@@ -5,11 +5,11 @@
 ✍️ &nbsp; https://github.com/leotm/react-native-template-typescript/wiki
 
 <a href="https://github.com/LeoTM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoTM&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTM&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoTM&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTM&theme=dark&layout=compact" />
 </a>
 
-![](https://github-profile-trophy.vercel.app/?username=LeoTM)
+![LeoTM - trophy](https://github-profile-trophy.vercel.app/?username=LeoTM&theme=onedark)
 
 <!-- https://ileriayo.github.io/markdown-badges -->
 <!-- Email? -->
