@@ -1,5 +1,3 @@
-
-
 💼 &nbsp; Open source, team [@reactwg](https://github.com/reactwg/react-native-new-architecture). Ex-[Fantastec](https://www.linkedin.com/company/fantastecsport). Directly approached by [Google](https://github.com/google), [Amazon](https://github.com/amzn), [Meta](https://github.com/facebook) (Facebook)
 
 🌱 &nbsp; https://github.com/leotm/react-native-template-typescript/projects
