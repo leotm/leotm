@@ -11,6 +11,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=LeoTM)
 
+<!-- https://ileriayo.github.io/markdown-badges -->
+
 <p align="center">
   <a href="https://stackexchange.com/users/1639128/leo"><img alt="Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/LeoTM/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20T%20M-blue?style=flat-square&logo=linkedin"></a>
