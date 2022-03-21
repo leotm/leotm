@@ -1,4 +1,4 @@
-💼 &nbsp; Open source, team [@reactwg](https://github.com/reactwg/react-native-new-architecture). Ex-[Fantastec](https://www.linkedin.com/company/fantastecsport). Directly approached by [Google](https://github.com/google), [Amazon](https://github.com/amzn), [Meta](https://github.com/facebook) (Facebook), [Shopify](https://github.com/Shopify) and more
+💼 &nbsp; [Open source](https://github.com/react-native-open-sauce), team [@reactwg](https://github.com/reactwg/react-native-new-architecture). Ex-[Fantastec](https://www.linkedin.com/company/fantastecsport). Directly approached by [Google](https://github.com/google), [Amazon](https://github.com/amzn), [Meta](https://github.com/facebook) (Facebook), [Shopify](https://github.com/Shopify) and more
 
 🌱 &nbsp; https://github.com/leotm/react-native-template-typescript/projects
 
