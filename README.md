@@ -16,6 +16,7 @@
   <a href="https://www.linkedin.com/in/LeoTM/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20T%20M-blue?style=flat-square&logo=linkedin"></a>
     <a href="https://stackoverflow.com/users/1998086/leo"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <br><br>
+  🏆 &nbsp; StackOverflow 0.9% (2019)
   🎓 &nbsp; BSc Hons Computer Science at University of Nottingham
 </p>
 
