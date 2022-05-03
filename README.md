@@ -29,6 +29,6 @@
 
 🚀 &nbsp; https://github.com/infinitered/reactotron-react-native/issues/239#issuecomment-657792540
 
-👍 &nbsp; https://github.com/microsoft/vscode/issues/134635#issuecomment-1027734972 (https://github.com/microsoft/vscode/issues/141880)
+👍 &nbsp; https://github.com/microsoft/vscode/issues/134635#issuecomment-1027734972 (https://github.com/microsoft/vscode/issues/141880#issuecomment-1027710518)
 
 🚫 &nbsp; [You're dereferencing a null pointer!](https://youtu.be/bLHL75H_VEM)
