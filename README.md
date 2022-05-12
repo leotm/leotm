@@ -23,6 +23,15 @@
   🎓 &nbsp; BSc Hons Computer Science at University of Nottingham
 </p>
 
+<h4 align='center'>
+  <a href='https://stars.github.com/nominate/'>Github Stars nomination :godmode: </a>
+  </br></br>
+    <a href="https://www.buymeacoffee.com/leotm"><img width="210" src="https://img.buymeacoffee.com/button-api/?text=Buy me a Tea&emoji=&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=9d5c01"></a>
+  <a href='https://www.paypal.com/donate/?hosted_button_id=YEVLRNDAS7FXU'>
+    <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</h4>
+
 🎉 &nbsp; https://github.com/facebook/flipper/issues/2221#issuecomment-886257050 (https://github.com/facebook/flipper/pull/2619)
 
 ❤️ &nbsp; https://github.com/facebook/react-native/issues/31733#issuecomment-864536726
