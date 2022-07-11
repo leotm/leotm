@@ -44,11 +44,3 @@
 🚫 &nbsp; [You're dereferencing a null pointer!](https://youtu.be/bLHL75H_VEM)
 
 :godmode: &nbsp; [Nominate a ⭐](https://stars.github.com/nominate/)
-
-<h4 align='center'>  
-    <a href="https://www.buymeacoffee.com/leotm"><img width="210" src="https://img.buymeacoffee.com/button-api/?text=Buy me a Tea&emoji=&slug=medredha&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=9d5c01"></a>
-  <a href='https://www.paypal.com/donate/?hosted_button_id=YEVLRNDAS7FXU'>
-    <img width="150" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
-</h4>
-
