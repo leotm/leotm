@@ -1,4 +1,4 @@
-💼 &nbsp; Team [@reactwg](https://github.com/reactwg/react-native-new-architecture). Ex-[Fantastec](https://www.linkedin.com/company/fantastecsport). Internally/directly approached by [Google](https://github.com/google) (Mobile, +), [Amazon](https://github.com/amzn) (Envision, Pyxis, +), [Meta](https://github.com/facebook) (Partner Eng) ++
+💼 &nbsp; Team [@reactwg](https://github.com/reactwg/react-native-new-architecture). Ex-[Fantastec](https://www.linkedin.com/company/fantastecsport). Internally/directly approached by [Google](https://github.com/google) (Mobile, +), [Amazon](https://github.com/amzn) (Envision, Pyxis, +), [Meta](https://github.com/facebook) (Partner Eng)
 
 <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoTM&theme=dark&show_icons=true" />
