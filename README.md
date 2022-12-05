@@ -1,4 +1,4 @@
-💼 &nbsp; Team [@reactwg](https://github.com/reactwg/react-native-new-architecture). Ex-[Fantastec](https://www.linkedin.com/company/fantastecsport). Internally/directly approached by [Google](https://github.com/google) (Mobile, +), [Amazon](https://github.com/amzn) (Envision, Pyxis, +), [Meta](https://github.com/facebook) (Partner Eng)
+Team [@reactwg](https://github.com/reactwg/react-native-new-architecture). Ex-[MoonPay](https://www.moonpay.com/), ex-[Fantastec](https://fantastec-swap.io/). Internally approached by [Google](https://github.com/google) (Mobile, +), [Amazon](https://github.com/amzn) (Envision, Pyxis, +), [Meta](https://github.com/facebook) (Partner Eng)
 
 <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoTM&theme=dark&show_icons=true" />
@@ -10,7 +10,7 @@
 <!-- https://ileriayo.github.io/markdown-badges -->
 <!-- Email? -->
 
-🏆 &nbsp; StackOverflow 0.9% (19) 🌍 ~7.4 million people reached
+StackOverflow 🌍 ~7.5 million people reached 🏆 0.9% (19) 
 
 ✨ &nbsp; https://github.com/facebook/react-native/issues/31733#issuecomment-864536726
 
